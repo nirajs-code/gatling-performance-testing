@@ -15,6 +15,8 @@ public class ConfigManager {
     private static final String ENV = System.getProperty(Constants.ENV, "test");
     private static final Properties PROP = loadConfig();
 
+//    public static final String testType = System.getProperty("testType", "smoke"); // Test type (default: smoke)
+
     private static Properties loadConfig() {
         Properties properties = new Properties();
         String config_path = String.format("config/%s/appConfig.properties", ENV);
@@ -37,6 +39,10 @@ public class ConfigManager {
 
     public static String getEnvType() {
         return ENV;
+    }
+
+    public static String getConfigProperty(String key){
+        return PROP.getProperty(key);
     }
 
 }
