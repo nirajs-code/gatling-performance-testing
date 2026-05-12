@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="com.sapient.pscopilot.state.conversations.ConversationsState">
-    <option name="conversationsContainer" value="{&quot;conversationsMapping&quot;:{&quot;AGENT&quot;:[{&quot;streamingResponse&quot;:false,&quot;id&quot;:&quot;2a13b2ad-13a9-451f-95fc-dc88507755b1&quot;,&quot;messages&quot;:[],&quot;clientCode&quot;:&quot;AGENT&quot;,&quot;model&quot;:&quot;AGENT&quot;,&quot;provider&quot;:&quot;LionChatRag&quot;,&quot;providerModel&quot;:&quot;gpt-4.1&quot;,&quot;createdOn&quot;:[2026,5,12,21,42,57,273169000],&quot;updatedOn&quot;:[2026,5,12,21,42,57,273170000],&quot;discardTokenLimit&quot;:false,&quot;chatId&quot;:null,&quot;chatTabName&quot;:&quot;DEFAULT&quot;,&quot;chatType&quot;:&quot;STANDARD&quot;,&quot;lastProviderModel&quot;:null,&quot;isStreamingResponse&quot;:false}]}}" />
-    <option name="currentConversation" value="{&quot;streamingResponse&quot;:false,&quot;id&quot;:&quot;2a13b2ad-13a9-451f-95fc-dc88507755b1&quot;,&quot;messages&quot;:[],&quot;clientCode&quot;:&quot;AGENT&quot;,&quot;model&quot;:&quot;AGENT&quot;,&quot;provider&quot;:&quot;LionChatRag&quot;,&quot;providerModel&quot;:&quot;gpt-4.1&quot;,&quot;createdOn&quot;:[2026,5,12,21,42,57,273169000],&quot;updatedOn&quot;:[2026,5,12,21,42,57,273170000],&quot;discardTokenLimit&quot;:false,&quot;chatId&quot;:null,&quot;chatTabName&quot;:&quot;DEFAULT&quot;,&quot;chatType&quot;:&quot;STANDARD&quot;,&quot;lastProviderModel&quot;:null,&quot;isStreamingResponse&quot;:false}" />
-  </component>
-</project>
