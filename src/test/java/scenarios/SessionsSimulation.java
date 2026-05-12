@@ -1,4 +1,4 @@
-package example;
+package scenarios;
 
 import static io.gatling.javaapi.core.CoreDsl.*;
 import static io.gatling.javaapi.http.HttpDsl.*;
