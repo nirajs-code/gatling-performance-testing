@@ -2,3 +2,4 @@
 /.mvn/wrapper/*.jar
 /.gatling
 /.github
+/.idea
